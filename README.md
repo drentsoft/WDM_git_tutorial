@@ -58,6 +58,7 @@ Time for questions to sort issues
 - Github Pages
 - _~~Wiki~~_
 - Desktop vs console commands
+- Protected branches
 
 ## Additional Resources
 ### Git Command Cheat Sheet
@@ -66,3 +67,5 @@ https://github.github.com/training-kit/
 https://docs.godotengine.org/en/3.1/community/contributing/pr_workflow.html
 ### Creating a Github Repository and Making Changes
 https://guides.github.com/activities/hello-world/
+### Protected Branches
+https://help.github.com/en/articles/defining-the-mergeability-of-pull-requests
