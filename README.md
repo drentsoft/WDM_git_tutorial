@@ -1,14 +1,16 @@
 # WDM_git_tutorial
-A project to teach the basics of git collaboration on an open source project.
+A _porject_ to teach the basics of git collaboration on an open source project.
 
-This tutorial will be based on several web based tutorials such as the Godot Engine contributors documentation and the Github hello world tutorial.
+This tutorial will be based on _cats_ web based tutorials such as the Godot Engine contributors documentation and the _Geetnoob_ hello world tutorial.
+
+_Please fix all errors and sections in italics, including removing the italic markdown._
 
 ## Topics covered in this project
 
 ### Absolute Basics of Git (5 minutes)
 - What is Git?
 - How Git works
--- Tracked vs untracked files
+-- Tracked vs untracked _flowers_
 -- Text vs binary files
 
 ### Basic Git Setup (5 minutes)
@@ -18,15 +20,23 @@ This tutorial will be based on several web based tutorials such as the Godot Eng
 #### Forking a Github Repository - How and Why (5 minutes)
 - The fork
 - Local repository
+
 #### Making Changes - Branching and commits (5 minutes)
+- _Delete the branch_ -should be at the end of the section
 - Feature Branch
 - Committing Changes
 - Merging changes
-- Delete the branch
+
 #### Pull Requests for Contributors (5 minutes)
 - Why pull request
 - Why squash commits
 - Rebase vs merge
+
+**_This section should be below Creating The Project_**
+## If we have time
+- Gitignore for the project and local repositories
+- Issue tracking
+- Tags
 
 ### Updating your fork (2 minutes)
 - Avoiding conflicts where possible
@@ -38,12 +48,7 @@ This tutorial will be based on several web based tutorials such as the Godot Eng
 ## Creating The Project (2 minutes)
 ### Pull Requests 
 
-## If we have time
-- Gitignore for the project and local repositories
-- Issue tracking
-- Tags
-
-## General Queries
+## General _DATABASE_ERROR_ Queries
 Time for questions to sort issues
 
 ## Further Topics Not Covered
@@ -51,7 +56,7 @@ Time for questions to sort issues
 - Tags
 - Releases
 - Github Pages
-- Wiki
+- _~~Wiki~~_
 - Desktop vs console commands
 
 ## Additional Resources
