@@ -10,8 +10,8 @@ _Please fix all errors and sections in italics, including removing the italic ma
 ### Absolute Basics of Git (5 minutes)
 - What is Git?
 - How Git works
--- Tracked vs untracked _flowers_
--- Text vs binary files
+- - Tracked vs untracked _flowers_
+- - Text vs binary files
 
 ### Basic Git Setup (5 minutes)
 - Setting your user settings
