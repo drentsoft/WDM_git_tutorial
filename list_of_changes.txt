@@ -1,0 +1,17 @@
+Below are the list of errors in the README file, in order with instructions for fixing them.
+
+ERROR / Substitution(s)
+porject / project
+Geetnoob / Github
+cats / several/some - I am hoping someone chooses one version and someone else chooses the other to show off conflict resolution.
+
+Remove the line asking to fix all errors and sections in italics.
+
+Move delete the branch to the end of the section and remove italics
+
+Move "If we have time" section below "Creating the Project" section.
+Remove the italicised line above "If we have time"
+
+Remove DATABASE_ERROR
+
+Remove strikethrough and italics markdown from Wiki
