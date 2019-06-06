@@ -1,9 +1,7 @@
 # WDM_git_tutorial
-A _porject_ to teach the basics of git collaboration on an open source project.
+A _project_ to teach the basics of git collaboration on an open source project.
 
-This tutorial will be based on _cats_ web based tutorials such as the Godot Engine contributors documentation and the _Geetnoob_ hello world tutorial.
-
-_Please fix all errors and sections in italics, including removing the italic markdown._
+This tutorial will be based on _some_ web based tutorials such as the Godot Engine contributors documentation and the _Geetnoob_ hello world tutorial.
 
 ## Topics covered in this project
 
