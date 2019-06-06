@@ -60,7 +60,7 @@ Time for questions to sort issues
 - Tags
 - Releases
 - Github Pages
-- _~~Wiki~~_
+- --Wiki--
 - Desktop vs console commands
 - Protected branches
 
