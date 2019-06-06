@@ -56,7 +56,7 @@ Time for questions to sort issues
 - Tags
 - Releases
 - Github Pages
-- Wiki
+- --Wiki--
 - Desktop vs console commands
 - Protected branches
 
